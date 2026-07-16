@@ -16,7 +16,7 @@ The people building Menlo come from computing, engineering, political science, a
 
 <br>
 
-<p>
+<p align="center">
   <img src="locomotion-alexe-horizontal1.gif" alt="Asimov humanoid locomotion" width="48%">
   &nbsp;&nbsp;
   <img src="locomotion-alexe-horizontal2.gif" alt="Asimov humanoid locomotion" width="48%">
