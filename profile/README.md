@@ -14,12 +14,10 @@ Menlo started with a simple mission: build the brain for robots. We began with [
 
 The people building Menlo come from computing, engineering, political science, and everywhere in between. We're spread across Singapore and Vietnam, with a US office opening soon.
 
-<table width="100%">
-  <tr>
-    <td width="50%"><img src="locomotion-alexe-horizontal1.gif" alt="Asimov humanoid locomotion" width="100%"></td>
-    <td width="50%"><img src="locomotion-alexe-horizontal2.gif" alt="Asimov humanoid locomotion" width="100%"></td>
-  </tr>
-</table>
+<p>
+  <img src="locomotion-alexe-horizontal1.gif" alt="Asimov humanoid locomotion" width="49%">
+  <img src="locomotion-alexe-horizontal2.gif" alt="Asimov humanoid locomotion" width="49%">
+</p>
 
 ## Follow our journey
 
