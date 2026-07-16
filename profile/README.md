@@ -29,4 +29,6 @@ The people building Menlo come from computing, engineering, political science, a
 - **[Events](https://luma.com/user/menlo_research)**: Catch us in person or online
 - **[Get in touch](https://menlo.ai/talk)**: Deploy robots, collaborate on research, or find another way to work with us
 
+<br>
+
 ![Menlo robots](ill_behaved_robots.png)
