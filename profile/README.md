@@ -16,10 +16,7 @@ So we built our own. First came [a set of legs](https://docs.menlo.ai/asimov/0),
 
 Today, we're teaching Asimov to discover new skills and keep getting better in the real world.
 
-<picture>
-  <source media="(max-width: 640px)" srcset="locomotion-mobile.gif">
-  <img src="locomotion-desktop.gif" alt="Asimov humanoid locomotion" width="100%">
-</picture>
+https://github.com/user-attachments/assets/59ce106c-c3ba-421b-9e8d-76cbb9eabeba
 
 ## Follow our journey
 
