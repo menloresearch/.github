@@ -16,7 +16,7 @@ So we built our own. First came [a set of legs](https://docs.menlo.ai/asimov/0),
 
 Today, we're teaching Asimov to discover new skills and keep getting better in the real world.
 
-https://github.com/user-attachments/assets/59ce106c-c3ba-421b-9e8d-76cbb9eabeba
+![Menlo team members Ishneet and Ariel walking Asimov along Marina Bay Sands](asimov-marina-bay.webp)
 
 ## Follow our journey
 
